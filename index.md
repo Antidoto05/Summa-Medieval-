@@ -1,4 +1,6 @@
 --- 
 layout: home 
 --- 
-Welcome to my new blog! 
+Hola, bienvenidos a mi summa digital  
+
+##Sumas:
