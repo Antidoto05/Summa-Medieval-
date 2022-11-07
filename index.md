@@ -1,6 +1,7 @@
 --- 
 layout: home 
 --- 
-Hola, bienvenidos a mi summa digital  
+Hola, bienvenidos a mi summa digital
 
-##Sumas:
+
+summa:
